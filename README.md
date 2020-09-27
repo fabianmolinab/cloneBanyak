@@ -1,14 +1,2 @@
-# Webpack Starter
-
-Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-
-### Notas:
-Recuerden reconstruir los módulos de Node
-```
-npm install
-```
-
-Y para construir el build, recueren:
-```
-npm run build
-```
+#Proyecto Banyak
+Este es un clon de la pagina web Banyak, pero con estilos personalizados y mejor interacción con el usuario. 
