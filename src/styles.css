@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+ul {
+  list-style: none;
+}
+
+/*Header*/
+header {
+  margin: 0 auto;
+}
+
+.header-a {
+  width: 90%;
+  margin: 4% auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.fa-bars {
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+.header-b {
+  width: 90%;
+  margin: 4% auto;
+}
+.menu-nav {
+  display: flex;
+  justify-content: space-around;
+}
+.menu-nav a {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14;
+}
